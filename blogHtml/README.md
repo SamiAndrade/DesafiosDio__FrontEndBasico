@@ -1,2 +1,1 @@
-# DesafiosDio__FrontEndBasico
-Aqui estão disponibilizados os desafios realizados no bootcamp de frontend da Santander
+## MiniBlog com foco no aprendizado em tags HTMLc
