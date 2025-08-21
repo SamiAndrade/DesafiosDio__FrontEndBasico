@@ -149,4 +149,8 @@ background-color: #F9AEC7;
             grid-template-columns: 1fr 1fr 1fr 1fr;
     
         }
+        .pagination button {
+            padding: 1.5rem 4rem;
+            font-size: .8rem;
+        }
     }
