@@ -9,4 +9,4 @@ conceitos abordados:
 - Organização de código
 
 
-![Minha Foto](../../../Downloads/Captura%20de%20Tela%20(3).png)
+![Foto - Projeto YuGiOh](Captura%20de%20Tela%20(3).png)
