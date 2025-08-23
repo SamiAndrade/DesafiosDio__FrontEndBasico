@@ -23,7 +23,7 @@ const playerSides = {
   player2: "computer-cards",
 };
 
-const pathImages = "./src/assets/icons/";
+const pathImages = "/YuGiOh/src/assets/icons/";
 
 const cardData = [
   {
@@ -60,7 +60,7 @@ async function getRandomCards() {
 async function createCardImage(IdCard, fieldSide) {
   const cardImage = document.createElement("img");
   cardImage.setAttribute("height", "100px");
-  cardImage.setAttribute("src", "./src/assets/icons/card-back.png");
+  cardImage.setAttribute("src", "/YuGiOh/src/assets/icons/card-back.png");
   cardImage.setAttribute("data-id", IdCard);
   cardImage.classList.add("cards");
 
